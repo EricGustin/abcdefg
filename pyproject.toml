@@ -2,7 +2,7 @@
 name = "arcade_abcdefg"
 version = "0.0.1"
 description = "LLM tools for saying hello"
-authors = ["EricGustin <NA>"]
+authors = ["EricGustin <eric@arcade-ai.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.10"
