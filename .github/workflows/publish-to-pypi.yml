@@ -2,7 +2,6 @@ name: Publish to PyPI
 
 on:
   release:
-    types:
       types: [published]
 
 jobs:
