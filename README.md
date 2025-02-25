@@ -1,6 +1,6 @@
 # abcdefg
 
-LLM tools for saying hello
+LLM tools for saying hello!
 
 ## Creating your new toolkit repo
 
